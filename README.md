@@ -64,6 +64,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-amber-theta-94.vercel.app/api?username=basilegithub&show_icons=true&theme=dark&cache_seconds=2" width="460" alt="GitHub stats">
-  <img src="https://github-readme-stats-amber-theta-94.vercel.app/api/top-langs/?username=basilegithub&layout=compact&theme=dark&cache_seconds=2" width="350" alt="Top languages">
+  <img src="https://github-readme-stats-amber-theta-94.vercel.app/api?username=basilegithub&show_icons=true&theme=dark&cache_seconds=1" width="460" alt="GitHub stats">
+  <img src="https://github-readme-stats-amber-theta-94.vercel.app/api/top-langs/?username=basilegithub&layout=compact&theme=dark&cache_seconds=1" width="350" alt="Top languages">
 </p>
