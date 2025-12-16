@@ -65,5 +65,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-amber-theta-94.vercel.app/api?username=basilegithub&show_icons=true&theme=dark" width="460" alt="GitHub stats">
-  <img src="https://github-readme-stats-amber-theta-94.vercel.app/api/top-langs/?username=basilegithub&layout=compact&theme=dark" width="460" alt="Top languages">
+  <img src="https://github-readme-stats-amber-theta-94.vercel.app/api/top-langs/?username=basilegithub&layout=compact&theme=dark" width="500" alt="Top languages">
 </p>
